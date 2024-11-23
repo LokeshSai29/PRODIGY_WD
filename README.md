@@ -1,4 +1,4 @@
-# Prodigy Platform Internship Projects
+# Prodigy Web Development Internship Project
 
 This repository contains all the tasks I completed during my online internship on the Prodigy platform. The projects demonstrate my skills in front-end web development and JavaScript-based interactivity, showcasing various applications and features. Each task is implemented using **HTML**, **CSS**, and **JavaScript**. Below are the details of the tasks included in this repository:
 
